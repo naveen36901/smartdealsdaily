@@ -23,16 +23,14 @@ nav a {
   text-decoration: none;
 }
 
-.hero {
-  padding: 40px;
-  text-align: center;
-  background: white;
+section {
+  padding: 20px;
 }
 
 .card, .product {
   background: white;
   padding: 20px;
-  margin: 20px;
+  margin: 20px 0;
   border-radius: 6px;
 }
 
